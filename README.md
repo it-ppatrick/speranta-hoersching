@@ -1,11 +1,11 @@
-# Speranța Hörsching — prezentarea proiectului
+# Speranța Hörsching — prezentare proiect
 
-Pagină de prezentare pentru proiectul noii Biserici Penticostale „Speranța Hörsching”.
+Pagină statică pentru prezentarea proiectului noii biserici.
 
 ## Publicare
+1. Creați un repository GitHub `speranta-horsching`.
+2. Încărcați `index.html` în rădăcina repository-ului.
+3. În Cloudflare Pages, conectați repository-ul; framework preset: None, build command: gol, output directory: `/` (sau deploy direct cu fișierele).
 
-Website-ul este o pagină statică (`index.html`) care poate fi publicată cu Cloudflare Pages. Fișierul HTML V7 conține imaginile și codul QR SEPA incluse în pagină.
-
-**Înainte de publicarea pentru donații:** confirmați beneficiarul, IBAN-ul și detaliile bancare cu biserica și testați codul QR SEPA într-o aplicație bancară.
-
-Acest repository nu este website-ul oficial speranta.at.
+## Atenție înainte de publicare
+Verificați datele bancare, QR-ul SEPA și acordul bisericii pentru publicarea imaginilor și informațiilor.
